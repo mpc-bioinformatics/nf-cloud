@@ -1,4 +1,9 @@
 # Nextflow Cloud
+
+!!!   
+NF-Cloud is renamed to Massive Accessible Workflow Platform (MaCWorP), moved to https://github.com/cubimedrub/macworp and is now developed as part of [CUBiMed.RUB](https://www.cubimed.ruhr-uni-bochum.de/).   
+!!!
+
 Nextflow Cloud or NF-Cloud is a web interface to run nextflow workflows in a cloud environment.   
 NF-Cloud has three compontents
 
